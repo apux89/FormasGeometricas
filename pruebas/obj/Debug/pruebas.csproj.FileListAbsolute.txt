@@ -1,0 +1,13 @@
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\pruebas.exe.config
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\pruebas.exe
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\pruebas.pdb
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\CodingChallenge.Data.dll
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\en\CodingChallenge.Data.resources.dll
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\es\CodingChallenge.Data.resources.dll
+C:\Users\APU\source\repos\CodingChallenge\pruebas\bin\Debug\it\CodingChallenge.Data.resources.dll
+C:\Users\APU\source\repos\CodingChallenge\pruebas\obj\Debug\pruebas.csprojAssemblyReference.cache
+C:\Users\APU\source\repos\CodingChallenge\pruebas\obj\Debug\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\APU\source\repos\CodingChallenge\pruebas\obj\Debug\pruebas.csproj.CopyComplete
+C:\Users\APU\source\repos\CodingChallenge\pruebas\obj\Debug\pruebas.exe
+C:\Users\APU\source\repos\CodingChallenge\pruebas\obj\Debug\pruebas.pdb
